@@ -1,0 +1,17 @@
+
+        #mouse-position {
+            float: left;
+            position: absolute;
+            bottom: 35px;
+            width: 200px;
+            height: 20px;
+            z-index: 2000;
+            margin-bottom:50px;
+            margin-left:20px;
+        }
+        
+        .custom-mouse-position {
+            color: rgb(0,0,0);
+            font-size: 16px;
+            font-family: "Times New Roman";
+        }

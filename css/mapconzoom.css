@@ -1,0 +1,25 @@
+
+            #mapCon .ol-zoom .ol-zoom-out {
+                margin-top: 204px;
+            }
+            #mapCon .ol-zoomslider {
+                background-color: transparent;
+                top: 2.3em;
+            }
+            #mapCon .ol-touch .ol-zoom .ol-zoom-out {
+                margin-top: 212px;
+            }
+            #mapCon .ol-touch .ol-zoomslider {
+                top: 2.75em;
+            }
+            #mapCon .ol-zoom-in .ol.has-tooltip:hover[role=tooltip],
+            #mapCon .ol-zoom-in .ol-has-tooltip:focus[role=tooltip] {
+                top: 3px;
+            }
+            #mapCon .ol-zoom-out .ol-has-tooltip:hover[role=tooltip],
+            #mapCon .ol-zoon-out .ol-has-out-tooltip:focus[role=tooltip] {
+                top: 232px;
+            }
+            #mapCon .ol-zoom-extent {
+                top: 280px;
+            }
